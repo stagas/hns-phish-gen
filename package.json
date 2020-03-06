@@ -1,8 +1,9 @@
 {
   "name": "hns-phish-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate phishing alternative domains for Handshake",
   "main": "index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/stagas/hns-phish-gen.git"
