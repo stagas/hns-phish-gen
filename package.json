@@ -1,0 +1,26 @@
+{
+  "name": "hns-phish-gen",
+  "version": "1.0.0",
+  "description": "generate phishing alternative domains for Handshake",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stagas/hns-phish-gen.git"
+  },
+  "keywords": [
+    "hns",
+    "handshake",
+    "phishing",
+    "typo"
+  ],
+  "author": "stagas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stagas/hns-phish-gen/issues"
+  },
+  "homepage": "https://github.com/stagas/hns-phish-gen#readme",
+  "dependencies": {
+    "hns-domain-ttr": "^1.0.1",
+    "typojs": "^0.1.1"
+  }
+}
